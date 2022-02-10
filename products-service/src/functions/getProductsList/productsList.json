@@ -1,58 +1,30 @@
 [
   {
+    "id": "B187884D-0B48-4047-9177-346334B76BF9",
+    "title": "Simple Car",
+    "description": "Just a Simple Car",
     "count": 4,
-    "description": "Short Product Description1",
-    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
-    "price": 2.4,
-    "title": "ProductOne"
+    "price": 1000
   },
   {
-    "count": 6,
-    "description": "Short Product Description3",
-    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a0",
-    "price": 10,
-    "title": "ProductNew"
+    "id": "4AC7AC47-9E07-469C-B2CE-20EABB108BF6",
+    "title": "Car",
+    "description": "Just a Car",
+    "count": 4,
+    "price": 10000
   },
   {
-    "count": 7,
-    "description": "Short Product Description2",
-    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a2",
-    "price": 23,
-    "title": "ProductTop"
+    "id": "08AE5664-DFE6-4888-A4BB-B0D3B7F135B7",
+    "title": "Better Car",
+    "description": "Just a Better Car",
+    "count": 4,
+    "price": 100000
   },
   {
-    "count": 12,
-    "description": "Short Product Description7",
-    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a1",
-    "price": 15,
-    "title": "ProductTitle"
-  },
-  {
-    "count": 7,
-    "description": "Short Product Description2",
-    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a3",
-    "price": 23,
-    "title": "Product"
-  },
-  {
-    "count": 8,
-    "description": "Short Product Description4",
-    "id": "7567ec4b-b10c-48c5-9345-fc73348a80a1",
-    "price": 15,
-    "title": "ProductTest"
-  },
-  {
-    "count": 2,
-    "description": "Short Product Descriptio1",
-    "id": "7567ec4b-b10c-48c5-9445-fc73c48a80a2",
-    "price": 23,
-    "title": "Product2"
-  },
-  {
-    "count": 3,
-    "description": "Short Product Description7",
-    "id": "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
-    "price": 15,
-    "title": "ProductName"
+    "id": "46B51C33-B508-4D3E-92D5-0483584E7908",
+    "title": "The Best Car",
+    "description": "Just the Best Car",
+    "count": 4,
+    "price": 1000000
   }
 ]

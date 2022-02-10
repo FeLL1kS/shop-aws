@@ -6,8 +6,7 @@ export default {
     {
       http: {
         method: 'get',
-        path: 'products-list',
-        cors: true
+        path: 'product-by-id'
       },
     },
   ],
