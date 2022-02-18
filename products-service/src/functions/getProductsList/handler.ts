@@ -8,7 +8,7 @@ import { ConnectionOptions, createConnection,  } from 'mysql2';
 import { promisify } from 'util';
 
 export interface Product {
-  id: string;
+  id?: string;
   title: string;
   description: string;
   count: number;

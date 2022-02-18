@@ -4,11 +4,10 @@ export default {
   handler: `${handlerPath(__dirname)}/handler.main`,
   events: [
     {
-      http: {
-        method: 'get',
-        path: 'products',
-        cors: true
-      },
+      sqs: {
+        arn: 'arn:aws:sqs:eu-west-1:364156362749:products-service-queue',
+        batchSize: 10,
+      }
     },
   ],
 };
